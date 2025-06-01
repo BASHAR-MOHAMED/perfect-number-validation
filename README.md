@@ -39,9 +39,8 @@ Prime numbers from 1 to 20:
 13
 17
 19
-
-
-👨‍💻 Author
+```
+##  👨‍💻 Author
 Name: Bashar Mohamed
 
 Level: Advanced in C++
@@ -49,4 +48,5 @@ Level: Advanced in C++
 Focus: Clean code, data structures, algorithms
 
 Goal: Full Stack Desktop Developer 🚀
-# perfect-number-validation
+
+---
